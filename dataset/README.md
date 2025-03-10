@@ -18,3 +18,5 @@ Here the authentic cs.csv and the spoofed ds3.csv are compared on the basis of 4
 ## Comparison of carrier_doppler_hz
 ![](images/4.jpeg)
 
+# Execution
+The execution of the code can be done by putting all these datasets in the dataset under a google drive folder and updating the path in the code in the file named process.py
