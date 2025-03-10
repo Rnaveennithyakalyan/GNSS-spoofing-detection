@@ -7,3 +7,14 @@ Here the authentic cs.csv and the spoofed ds3.csv are compared on the basis of 4
                3. cn0_db_hz
                4. carrier_doppler_hz
 ## Comparison of prompt_i
+![](images/1.jpeg)
+
+## Comparison of prompt_q
+![](images/2.jpeg)
+
+## Comparison of cn0_db_hz
+![](images/3.jpeg)
+
+## Comparison of carrier_doppler_hz
+![](images/4.jpeg)
+
