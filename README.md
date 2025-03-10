@@ -25,7 +25,7 @@ After execution of the above codes the output will be as shown below:
 ![](screenshots/confusion_matrix_random_forest.png)
 
 ### ROCAUC
-![](screenshots/roc_curve_comparison(1).png)
+![](screenshots/roc.png)
 
 ### TABLE
 ![](screenshots/TABLE.jpeg)
