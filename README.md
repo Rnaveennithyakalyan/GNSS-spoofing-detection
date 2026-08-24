@@ -42,7 +42,17 @@ I have also added Model Specific Feature Contribution which shows us the paramte
 #### RANDOM FOREST
 ![](screenshots/feature_contribution_random_forest.png)
 
+---
 
+## 🏆 Paper Presentation & Award
 
+This repository contains the official implementation of the research paper:
+
+* **Paper Title:** *Random Forest-Based GNSS Spoofing Detection with Model-Specific Feature Contribution Analysis*
+* **Conference:** 2nd International Conference on Cognitive Computing and Artificial Intelligence (ICCCAI '25)
+* **Organizer:** Department of Computer Science and Engineering, Sathyabama Institute of Science & Technology, Chennai
+* **Dates:** March 27–28, 2025
+* **Recognition:** 🏅 **Best Paper Award & Best Presentation Award**
+---
 
 
